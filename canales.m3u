@@ -14,6 +14,8 @@ http://190.61.102.67:8000/play/a0gr
 http://190.61.102.67:8000/play/a0gs
 #EXTINF:-1,tvg-logo="https://static.wixstatic.com/media/281e2a_70e1b318c641448fa38c041e38c78ae2~mv2.png" tvg-name="TD+2" group-title="Costa Rica",TD+2
 http://190.61.102.67:8000/play/a0fq
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports" group-title="Costa Rica",Tigo Sports
+https://drqskz1ihsia2.cloudfront.net/out/v1/e30fab906b3a4dd396239b592a0ff5a1/index.m3u8
 
 #EXTGRP: Deportes
 #EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espnmx.png" tvg-name="ESPN MX" group-title="Deportes",ESPN MX
