@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTGRP: Costa Rica
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" tvg-name="6 - Repretel" group-title="Costa Rica",Repretel Canal 6
+http://200.107.234.74:8000/play/a02q/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" tvg-name="7-Teletica" group-title="Costa Rica",Teletica Canal 7
+http://200.107.234.74:8000/play/a02r/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" tvg-name="7-Teletica OP2" group-title="Costa Rica",Teletica Canal 7 OP2
+http://190.61.102.67:8000/play/a0f9
+#EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV HD CR" group-title="Costa Rica",FUTV
+http://200.107.234.74:8000/play/a00n/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP2" group-title="Costa Rica",FUTV OP2
+http://190.61.102.67:8000/play/a0gr
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+" group-title="Costa Rica",TD+
+http://190.61.102.67:8000/play/a0gs
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TD_M%C3%A1s_2_Logo.svg" tvg-name="TD+2" group-title="Costa Rica",TD+2
+http://190.61.102.67:8000/play/a0fq
+
+#EXTGRP: Deportes
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espnmx.png" tvg-name="ESPN MX" group-title="Deportes",ESPN MX
+http://200.107.234.74:8000/play/a06f/index.m3u8
