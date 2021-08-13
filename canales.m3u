@@ -6,6 +6,10 @@ http://200.107.234.74:8000/play/a02q/index.m3u8
 http://200.107.234.74:8000/play/a02r/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" tvg-name="7-Teletica OP2" group-title="Costa Rica",Teletica Canal 7 OP2
 http://190.61.102.67:8000/play/a0f9
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" tvg-name="7-Teletica OP3" group-title="Costa Rica",Teletica Canal 7 OP3
+http://45.182.20.194:8000/play/8atLgQ5JmCWVfEuE/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.telediario.cr/bundles/appcamusassets/images/logo-canal8.svg" tvg-name="8-Multimedios" group-title="Costa Rica",Multimedios Canal 8
+http://190.61.102.67:8000/play/a0dt
 #EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV HD CR" group-title="Costa Rica",FUTV
 http://200.107.234.74:8000/play/a00n/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP2" group-title="Costa Rica",FUTV OP2
@@ -26,3 +30,21 @@ https://dcpkc5ra62uis8pv.azcdn381.net:8443/hls/vfbpau.m3u8?s=kMyC6XCrSsBtRTqRSOE
 #EXTGRP: Deportes
 #EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espnmx.png" tvg-name="ESPN MX" group-title="Deportes",ESPN MX
 http://200.107.234.74:8000/play/a06f/index.m3u8
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn2mx.png" tvg-name="ESPN 2" group-title="Deportes",ESPN2
+http://45.182.20.194:8000/play/3jZRN66nDhuZwLbW/index.m3u8
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn2mx.png" tvg-name="ESPN2 OP2" group-title="Deportes",ESPN2 OP2
+http://200.107.234.74:8000/play/a06g/index.m3u8
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn2mx.png" tvg-name="ESPN2 OP3" group-title="Deportes",ESPN2 OP3
+http://190.61.102.67:8000/play/a0ge
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn3mx.png" tvg-name="ESPN3" group-title="Deportes",ESPN3
+http://45.182.20.194:8000/play/4hrEpujghmYgjET8/index.m3u8
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn3mx.png" tvg-name="ESPN3 OP2" group-title="Deportes",ESPN3 OP2
+http://190.61.102.67:8000/play/a09o
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN+" group-title="Deportes",ESPN+
+http://45.182.20.194:8000/play/7mZEEEBQpQGypd9c/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN+ OP2" group-title="Deportes",ESPN+ OP2
+http://200.107.234.74:8000/play/a06h/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN+ OP3" group-title="Deportes",ESPN+ OP3
+http://190.61.102.67:8000/play/a0d5
+#EXTINF:-1,tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logo_fox_sports_2012.png" tvg-name="FOX SPORTS HD" group-title="Deportes",FOX SPORTS HS
+http://45.182.20.194:8000/play/zMbqBSS3gramuTPy/index.m3u8
