@@ -30,13 +30,15 @@ http://23.237.132.90:8081/live/futv/chunks.m3u8
 https://cdnapisec.kaltura.com/p/2338051/sp/2338051/playManifest/entryId/0_umzvw1je/deliveryProfileId/3112/protocol/https/format/applehttp/a.m3u8?playSessionId=4946d64f-7d46-c2e5-2507-f742817250cc:be7c2755-93a1-4e66-ed2e-67ad5334c0bb&referrer=aHR0cHM6Ly90ZG1hc2NyLmNvbS8jL3BsYXk=&clientTag=html5:v0.51.3
 #EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP4(B)" group-title="Costa Rica",FUTV OP4(B)
 http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/703044
+#EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP5(B)" group-title="Costa Rica",FUTV OP5(B)
+http://blackghost.live/play/gnula-819.php?c=102490
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+" group-title="Costa Rica",TD+
 http://190.61.102.67:8000/play/a0gs
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+ (B)" group-title="Costa Rica",TD+ (B)
 http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/703053
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TD_M%C3%A1s_2_Logo.svg" tvg-name="TD+2" group-title="Costa Rica",TD+2
 http://190.61.102.67:8000/play/a0fq
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TD_M%C3%A1s_2_Logo.svg" tvg-name="TD+2 (B)" group-title="Costa Rica",TD+2 (B)
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1280px-TD_M%C3%A1s_2_Logo.svg.png" tvg-name="TD+2 (B)" group-title="Costa Rica",TD+2 (B)
 http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/703054
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports" group-title="Costa Rica",Tigo Sports
 https://drqskz1ihsia2.cloudfront.net/out/v1/e30fab906b3a4dd396239b592a0ff5a1/index.m3u8
