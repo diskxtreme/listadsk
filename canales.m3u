@@ -13,7 +13,7 @@ http://190.61.102.67:8000/play/a0dt
 #EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV HD CR" group-title="Costa Rica",FUTV
 http://200.107.234.74:8000/play/a00n/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP2" group-title="Costa Rica",FUTV OP2
-http://190.61.102.67:8000/play/a0gr
+http://23.237.132.90:8081/live/futv/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP3(E)" group-title="Costa Rica",FUTV OP3(E)
 https://cdnapisec.kaltura.com/p/2338051/sp/2338051/playManifest/entryId/0_umzvw1je/deliveryProfileId/3112/protocol/https/format/applehttp/a.m3u8?playSessionId=4946d64f-7d46-c2e5-2507-f742817250cc:be7c2755-93a1-4e66-ed2e-67ad5334c0bb&referrer=aHR0cHM6Ly90ZG1hc2NyLmNvbS8jL3BsYXk=&clientTag=html5:v0.51.3
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+" group-title="Costa Rica",TD+
