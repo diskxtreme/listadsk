@@ -51,8 +51,6 @@ https://vsd99.mycdn.me/hls/1452359092773.m3u8/sig/8bdF75TCao4/expires/1628737265
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP3(E)" group-title="Costa Rica",Tigo Sports OP3(E)
 https://dcpkc5ra62uis8pv.azcdn381.net:8443/hls/vfbpau.m3u8?s=kMyC6XCrSsBtRTqRSOE7EA&e=1628674006
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP4(B)" group-title="Costa Rica",Tigo Sports OP4(B)
-http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/702931
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP5(B)" group-title="Costa Rica",Tigo Sports OP5(B)
 http://138.0.229.88:8000/play/a01d/index.m3u8
 
 #EXTGRP: Deportes
