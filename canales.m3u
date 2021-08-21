@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTGRP: Costa Rica
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" tvg-name="Canal 4(B)" group-title="Costa Rica",Canal 4(B)
-http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/703038
+http://tvready.org:25461/23763235/36984944/11241
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" tvg-name="6 - Repretel" group-title="Costa Rica",Repretel Canal 6
 http://200.107.234.74:8000/play/a02q/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" tvg-name="Canal 6(B)" group-title="Costa Rica",Canal 6(B)
-http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/703039
+http://tvready.org:25461/23763235/36984944/11242
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" tvg-name="Canal 6 OP2(B)" group-title="Costa Rica",Canal 6 OP2(B)
 http://138.0.229.88:8000/play/a004/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" tvg-name="Canal 11(B)" group-title="Costa Rica",Canal 11(B)
-http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/703037
+http://tvready.org:25461/23763235/36984944/11240
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" tvg-name="7-Teletica" group-title="Costa Rica",Teletica Canal 7
 http://200.107.234.74:8000/play/a02r/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" tvg-name="7-Teletica OP2" group-title="Costa Rica",Teletica Canal 7 OP2
@@ -53,11 +53,26 @@ https://dcpkc5ra62uis8pv.azcdn381.net:8443/hls/vfbpau.m3u8?s=kMyC6XCrSsBtRTqRSOE
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP4(B)" group-title="Costa Rica",Tigo Sports OP4(B)
 http://138.0.229.88:8000/play/a01d/index.m3u8
 
+#EXTGRP: Deportes SD
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn3mx.png" tvg-name="ESPN MX SD" group-title="Deportes",ESPN MX SD
+https://blackghost.live/play/zufree-827.php?c=41009
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn3mx.png" tvg-name="ESPN3 MX SD" group-title="Deportes",ESPN3 MX SD
+https://blackghost.live/play/zufree-827.php?c=41008
+#EXTINF:-1,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica.png" tvg-name="ESPN+ SD" group-title="Deportes",ESPN+ SD
+https://blackghost.live/play/zufree-827.php?c=41010
+#EXTINF:-1,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" tvg-name="FOX SPORTS MX SD" group-title="Deportes",FOX SPORTS MX SD
+https://blackghost.live/play/zufree-827.php?c=40978
+#EXTINF:-1,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" tvg-name="FOX SPORTS 2 MX SD" group-title="Deportes",FOX SPORTS 2 MX SD
+https://blackghost.live/play/zufree-827.php?c=41007
+#EXTINF:-1,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" tvg-name="FOX SPORTS 3 MX SD" group-title="Deportes",FOX SPORTS 3 MX SD
+https://blackghost.live/play/zufree-827.php?c=40976
+
+
 #EXTGRP: Deportes
 #EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espnmx.png" tvg-name="ESPN MX" group-title="Deportes",ESPN MX
-http://200.107.234.74:8000/play/a06f/index.m3u8
-#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn2mx.png" tvg-name="ESPN 2" group-title="Deportes",ESPN2
-http://45.182.20.194:8000/play/3jZRN66nDhuZwLbW/index.m3u8
+http://blackghost.live/play/gnula-827.php?c=100202|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn2mx.png" tvg-name="ESPN 2 MX" group-title="Deportes",ESPN2
+https://blackghost.live/play/zufree-827.php?c=41023
 #EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn2mx.png" tvg-name="ESPN2 OP2" group-title="Deportes",ESPN2 OP2
 http://200.107.234.74:8000/play/a06g/index.m3u8
 #EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn2mx.png" tvg-name="ESPN2 OP3" group-title="Deportes",ESPN2 OP3
@@ -67,7 +82,7 @@ http://45.182.20.194:8000/play/4hrEpujghmYgjET8/index.m3u8
 #EXTINF:-1,tvg-logo="https://adictosaldeporte.com/logos/espn3mx.png" tvg-name="ESPN3 OP2" group-title="Deportes",ESPN3 OP2
 http://190.61.102.67:8000/play/a09o
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN+" group-title="Deportes",ESPN+
-http://45.182.20.194:8000/play/7mZEEEBQpQGypd9c/index.m3u8
+https://blackghost.live/play/zutv-827.php?c=41469|User-agent=XCIPTV-v5.0.1
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN+ OP2" group-title="Deportes",ESPN+ OP2
 http://200.107.234.74:8000/play/a06h/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN+ OP3" group-title="Deportes",ESPN+ OP3
